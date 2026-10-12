@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julie.perrin@dauphine.eu
+	name = julie perrin
